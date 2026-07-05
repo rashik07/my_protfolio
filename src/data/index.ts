@@ -1,6 +1,6 @@
 import {
   FaReact, FaNodeJs, FaGithub, FaDocker,
-  FaAws, FaCode, FaServer, FaMobileAlt, FaRobot, FaBrain
+  FaAws, FaCode, FaServer, FaRobot, FaBrain
 } from 'react-icons/fa';
 import {
   SiTypescript, SiJavascript, SiTailwindcss, SiNextdotjs,
